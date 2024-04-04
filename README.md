@@ -1,4 +1,6 @@
-# Página Personal
+# Curso: Diseñando mi sitio web
+![image](https://github.com/chepevalladares/ProyectoFinalMiSitioWeb/assets/148795862/6e4c75cb-765a-4af6-b872-08beaf1758a4)
+
 
 ¡Bienvenido al proyecto de Página Personal!
 
