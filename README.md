@@ -1,8 +1,8 @@
 # Curso: Diseñando mi sitio web
-![image](https://github.com/chepevalladares/ProyectoFinalMiSitioWeb/assets/148795862/6e4c75cb-765a-4af6-b872-08beaf1758a4)
 
 
-¡Bienvenido al proyecto de Página Personal!
+
+¡Bienvenido al proyecto final!
 
 Este proyecto te permite crear una página web personalizada con secciones como 'Acerca de mí', 'Experiencia' y 'Contacto'. Puedes descargar el código y realizar modificaciones creativas para adaptarlo a tus gustos y necesidades.
 
@@ -11,6 +11,7 @@ Este proyecto te permite crear una página web personalizada con secciones como 
 - [Instrucciones de Uso](#instrucciones-de-uso)
 - [Cómo Contribuir](#cómo-contribuir)
 - [Agradecimientos](#agradecimientos)
+  
 
 ## Instrucciones de Uso
 
@@ -29,3 +30,5 @@ Este proyecto se inspira en la creatividad y el aprendizaje continuo. Agradecemo
 ---
 
 ¡Diviértete explorando y creando tu propia página personalizada!
+[¡Sigue aprendiendo en Telmex Educación!](https://telmexeducacion.com/course/search.php?areaids=core_course-course&q=programaci%C3%B3n)
+
